@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luis Fernando 👋
 
 ![Luis Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandogomes&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukninja97&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandogomes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
